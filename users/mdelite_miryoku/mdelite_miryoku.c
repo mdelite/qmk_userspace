@@ -5,7 +5,7 @@
 
 #include QMK_KEYBOARD_H
 
-#include "manna-harbour_miryoku.h"
+#include "mdelite_miryoku.h"
 
 
 // Additional Features double tap guard
