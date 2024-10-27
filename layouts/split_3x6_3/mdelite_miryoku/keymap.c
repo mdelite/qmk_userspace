@@ -19,9 +19,3 @@ KC_LSFT,  K10,  K11,  K12,  K13,  K14,         K15,  K16,  K17,  K18,  K19,  KC_
 KC_LCTL,  K20,  K21,  K22,  K23,  K24,         K25,  K26,  K27,  K28,  K29,  KC_RCTL, \
                       K32,  K33,  K34,         K35,  K36,  K37 \
 )
-
-#define MIRYOKU_LAYER_TAP \
-KC_Q, KC_W, KC_E,               KC_R,   KC_T,   KC_Y,              KC_U,              KC_I,              KC_O,   KC_P,    \
-KC_A, KC_S, KC_D,               KC_F,   KC_G,   KC_H,              KC_J,              KC_K,              KC_L,   KC_QUOT, \
-KC_Z, KC_X, KC_C,               KC_V,   KC_B,   KC_N,              KC_M,              KC_COMM,           KC_DOT, KC_SLSH, \
-U_NP, U_NP, LT(U_MEDIA,KC_ESC), KC_SPC, KC_TAB, LT(U_SYM,KC_ENT),  LT(U_NUM,KC_BSPC), LT(U_FUN,KC_DEL),  U_NP,   U_NP
