@@ -11,5 +11,4 @@ KEY_OVERRIDE_ENABLE = yes
 INTROSPECTION_KEYMAP_C = mdelite_miryoku.c # keymaps
 
 include $(USER_PATH)/custom_rules.mk
-
 include $(USER_PATH)/post_rules.mk
